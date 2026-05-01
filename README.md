@@ -19,7 +19,7 @@ dataset/p1/
 └── profile.txt                    # optional
 ```
 
-Each `deltae.npz` should contain room keys such as `kitchen`, `living`, `bedroom`, `bathroom`, `study`, `dining`. Each array must be `float32`-compatible with shape `[T, D]`.
+Each `deltae.npz` should contain room keys such as `kitchen`, `living`, `bedroom`, `bathroom`, `study`, `dining`. Each array must be `float16`-compatible with shape `[T, D]`.
 
 ## Install
 
