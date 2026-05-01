@@ -1,0 +1,104 @@
+{
+  "activities": [
+    {
+      "label": "Rest/Sleeping",
+      "room": "bedroom",
+      "start": "04:30",
+      "end": "08:21",
+      "frame_start": 0,
+      "frame_end": 139200,
+      "duration_frames": 139200,
+      "duration_minutes": 232
+    },
+    {
+      "label": "Unknown/Other",
+      "room": "UNKNOWN",
+      "start": "08:22",
+      "end": "08:22",
+      "frame_start": 139200,
+      "frame_end": 139800,
+      "duration_frames": 600,
+      "duration_minutes": 1
+    },
+    {
+      "label": "Washing/Brushing",
+      "room": "bathroom",
+      "start": "08:23",
+      "end": "08:27",
+      "frame_start": 139800,
+      "frame_end": 142800,
+      "duration_frames": 3000,
+      "duration_minutes": 5
+    },
+    {
+      "label": "Toileting",
+      "room": "bathroom",
+      "start": "08:28",
+      "end": "08:36",
+      "frame_start": 142800,
+      "frame_end": 148200,
+      "duration_frames": 5400,
+      "duration_minutes": 9
+    },
+    {
+      "label": "Eating",
+      "room": "kitchen",
+      "start": "08:37",
+      "end": "08:51",
+      "frame_start": 148200,
+      "frame_end": 157200,
+      "duration_frames": 9000,
+      "duration_minutes": 15
+    },
+    {
+      "label": "Cleaning",
+      "room": "kitchen",
+      "start": "08:52",
+      "end": "08:55",
+      "frame_start": 157200,
+      "frame_end": 159600,
+      "duration_frames": 2400,
+      "duration_minutes": 4
+    },
+    {
+      "label": "Entertainment/Relax",
+      "room": "living",
+      "start": "08:56",
+      "end": "09:45",
+      "frame_start": 159600,
+      "frame_end": 189600,
+      "duration_frames": 30000,
+      "duration_minutes": 50
+    },
+    {
+      "label": "Toileting",
+      "room": "bathroom",
+      "start": "09:46",
+      "end": "09:47",
+      "frame_start": 189600,
+      "frame_end": 190800,
+      "duration_frames": 1200,
+      "duration_minutes": 2
+    },
+    {
+      "label": "Working/Studying",
+      "room": "living",
+      "start": "09:48",
+      "end": "11:12",
+      "frame_start": 190800,
+      "frame_end": 241800,
+      "duration_frames": 51000,
+      "duration_minutes": 85
+    },
+    {
+      "label": "Unknown/Other",
+      "room": "UNKNOWN",
+      "start": "11:13",
+      "end": "12:59",
+      "frame_start": 241800,
+      "frame_end": 306000,
+      "duration_frames": 64200,
+      "duration_minutes": 107
+    }
+  ]
+}

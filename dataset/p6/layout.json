@@ -1,0 +1,77 @@
+{
+  "rooms": {
+    "living": [
+      {
+        "name": "sofa",
+        "dist_m": [
+          0.5,
+          2.0
+        ]
+      }
+    ],
+    "bedroom": [
+      {
+        "name": "bed",
+        "dist_m": [
+          0.6,
+          1.8
+        ]
+      }
+    ],
+    "kitchen": [
+      {
+        "name": "stove",
+        "dist_m": [
+          0.3,
+          1.0
+        ]
+      },
+      {
+        "name": "sink",
+        "dist_m": [
+          0.2,
+          0.8
+        ]
+      },
+      {
+        "name": "dining table",
+        "dist_m": [
+          1.3,
+          2
+        ]
+      }
+    ],
+    "bathroom": [
+      {
+        "name": "washing sink",
+        "dist_m": [
+          0.2,
+          0.5
+        ]
+      },
+      {
+        "name": "toilet",
+        "dist_m": [
+          0.7,
+          1.2
+        ]
+      },
+      {
+        "name": "shower",
+        "dist_m": [
+          1.8,
+          2.6
+        ]
+      }
+    ],
+    "study": [
+      {
+        "name": "working tabel",
+        "dist_m": [
+          0.2,
+          1.5
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "activities": [
+    {
+      "label": "Toileting",
+      "room": "bathroom",
+      "start": "06:30",
+      "end": "06:37",
+      "frame_start": 0,
+      "frame_end": 4800,
+      "duration_frames": 4800,
+      "duration_minutes": 8
+    },
+    {
+      "label": "Washing/Brushing",
+      "room": "bathroom",
+      "start": "06:38",
+      "end": "06:42",
+      "frame_start": 4800,
+      "frame_end": 7800,
+      "duration_frames": 3000,
+      "duration_minutes": 5
+    },
+    {
+      "label": "Cooking",
+      "room": "kitchen",
+      "start": "06:43",
+      "end": "07:14",
+      "frame_start": 7800,
+      "frame_end": 27000,
+      "duration_frames": 19200,
+      "duration_minutes": 32
+    },
+    {
+      "label": "Eating",
+      "room": "living",
+      "start": "07:15",
+      "end": "07:43",
+      "frame_start": 27000,
+      "frame_end": 44400,
+      "duration_frames": 17400,
+      "duration_minutes": 29
+    },
+    {
+      "label": "Cleaning",
+      "room": "kitchen",
+      "start": "07:44",
+      "end": "07:52",
+      "frame_start": 44400,
+      "frame_end": 49800,
+      "duration_frames": 5400,
+      "duration_minutes": 9
+    },
+    {
+      "label": "Entertainment/Relax",
+      "room": "living",
+      "start": "07:53",
+      "end": "09:02",
+      "frame_start": 49800,
+      "frame_end": 91800,
+      "duration_frames": 42000,
+      "duration_minutes": 70
+    },
+    {
+      "label": "Unknown/Other",
+      "room": "UNKNOWN",
+      "start": "09:03",
+      "end": "10:40",
+      "frame_start": 91800,
+      "frame_end": 150600,
+      "duration_frames": 58800,
+      "duration_minutes": 98
+    },
+    {
+      "label": "Unknown/Other",
+      "room": "UNKNOWN",
+      "start": "10:41",
+      "end": "10:42",
+      "frame_start": 150600,
+      "frame_end": 151800,
+      "duration_frames": 1200,
+      "duration_minutes": 2
+    },
+    {
+      "label": "Toileting",
+      "room": "bathroom",
+      "start": "10:43",
+      "end": "10:45",
+      "frame_start": 151800,
+      "frame_end": 153600,
+      "duration_frames": 1800,
+      "duration_minutes": 3
+    },
+    {
+      "label": "Entertainment/Relax",
+      "room": "living",
+      "start": "10:46",
+      "end": "11:12",
+      "frame_start": 153600,
+      "frame_end": 169800,
+      "duration_frames": 16200,
+      "duration_minutes": 27
+    },
+    {
+      "label": "Cooking",
+      "room": "kitchen",
+      "start": "11:13",
+      "end": "11:40",
+      "frame_start": 169800,
+      "frame_end": 186600,
+      "duration_frames": 16800,
+      "duration_minutes": 28
+    },
+    {
+      "label": "Eating",
+      "room": "living",
+      "start": "11:41",
+      "end": "11:52",
+      "frame_start": 186600,
+      "frame_end": 193800,
+      "duration_frames": 7200,
+      "duration_minutes": 12
+    },
+    {
+      "label": "Cleaning",
+      "room": "kitchen",
+      "start": "11:53",
+      "end": "11:58",
+      "frame_start": 193800,
+      "frame_end": 197400,
+      "duration_frames": 3600,
+      "duration_minutes": 6
+    },
+    {
+      "label": "Entertainment/Relax",
+      "room": "living",
+      "start": "11:59",
+      "end": "13:06",
+      "frame_start": 197400,
+      "frame_end": 238200,
+      "duration_frames": 40800,
+      "duration_minutes": 68
+    },
+    {
+      "label": "Toileting",
+      "room": "bathroom",
+      "start": "13:07",
+      "end": "13:09",
+      "frame_start": 238200,
+      "frame_end": 240000,
+      "duration_frames": 1800,
+      "duration_minutes": 3
+    },
+    {
+      "label": "Unknown/Other",
+      "room": "UNKNOWN",
+      "start": "13:10",
+      "end": "13:11",
+      "frame_start": 240000,
+      "frame_end": 241200,
+      "duration_frames": 1200,
+      "duration_minutes": 2
+    },
+    {
+      "label": "Rest/Sleeping",
+      "room": "bedroom",
+      "start": "13:12",
+      "end": "15:00",
+      "frame_start": 241200,
+      "frame_end": 306600,
+      "duration_frames": 65400,
+      "duration_minutes": 109
+    }
+  ]
+}

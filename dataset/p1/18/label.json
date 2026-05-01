@@ -1,0 +1,74 @@
+{
+  "activities": [
+    {
+      "label": "Rest/Sleeping",
+      "room": "bedroom",
+      "start": "06:45",
+      "end": "08:22",
+      "frame_start": 0,
+      "frame_end": 58800,
+      "duration_frames": 58800,
+      "duration_minutes": 98
+    },
+    {
+      "label": "Toileting",
+      "room": "bathroom",
+      "start": "08:23",
+      "end": "08:24",
+      "frame_start": 58800,
+      "frame_end": 60000,
+      "duration_frames": 1200,
+      "duration_minutes": 2
+    },
+    {
+      "label": "Unknown/Other",
+      "room": "UNKNOWN",
+      "start": "08:25",
+      "end": "08:25",
+      "frame_start": 60000,
+      "frame_end": 60600,
+      "duration_frames": 600,
+      "duration_minutes": 1
+    },
+    {
+      "label": "Washing/Brushing",
+      "room": "bathroom",
+      "start": "08:26",
+      "end": "08:32",
+      "frame_start": 60600,
+      "frame_end": 64800,
+      "duration_frames": 4200,
+      "duration_minutes": 7
+    },
+    {
+      "label": "Eating",
+      "room": "kitchen",
+      "start": "08:33",
+      "end": "08:43",
+      "frame_start": 64800,
+      "frame_end": 71400,
+      "duration_frames": 6600,
+      "duration_minutes": 11
+    },
+    {
+      "label": "Entertainment/Relax",
+      "room": "living",
+      "start": "08:44",
+      "end": "09:36",
+      "frame_start": 71400,
+      "frame_end": 103200,
+      "duration_frames": 31800,
+      "duration_minutes": 53
+    },
+    {
+      "label": "Unknown/Other",
+      "room": "UNKNOWN",
+      "start": "09:37",
+      "end": "10:39",
+      "frame_start": 103200,
+      "frame_end": 141000,
+      "duration_frames": 37800,
+      "duration_minutes": 63
+    }
+  ]
+}

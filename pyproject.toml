@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "echolife-full"
+version = "0.2.0"
+description = "EchoLIFE project"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "numpy>=1.23",
+  "matplotlib>=3.6",
+  "pydantic>=2.0",
+  "tqdm>=4.0",
+  "langchain-openai>=0.1.0",
+  "langchain-core>=0.1.0",
+]
+
+[project.scripts]
+echolife-segment = "processing_and_segmentation.cli:main"
+echolife-recognize = "recognition.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

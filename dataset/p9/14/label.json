@@ -1,0 +1,34 @@
+{
+  "activities": [
+    {
+      "label": "Entertainment/Relax",
+      "room": "living",
+      "start": "14:30",
+      "end": "15:42",
+      "frame_start": 0,
+      "frame_end": 43800,
+      "duration_frames": 43800,
+      "duration_minutes": 73
+    },
+    {
+      "label": "Unknown/Other",
+      "room": "UNKNOWN",
+      "start": "15:43",
+      "end": "19:12",
+      "frame_start": 43800,
+      "frame_end": 169800,
+      "duration_frames": 126000,
+      "duration_minutes": 210
+    },
+    {
+      "label": "Entertainment/Relax",
+      "room": "living",
+      "start": "19:13",
+      "end": "20:59",
+      "frame_start": 169800,
+      "frame_end": 234000,
+      "duration_frames": 64200,
+      "duration_minutes": 107
+    }
+  ]
+}

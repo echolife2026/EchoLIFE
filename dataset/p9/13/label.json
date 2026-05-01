@@ -1,0 +1,104 @@
+{
+  "activities": [
+    {
+      "label": "Rest/Sleeping",
+      "room": "bedroom",
+      "start": "04:30",
+      "end": "06:23",
+      "frame_start": 0,
+      "frame_end": 68400,
+      "duration_frames": 68400,
+      "duration_minutes": 114
+    },
+    {
+      "label": "Washing/Brushing",
+      "room": "bathroom",
+      "start": "06:24",
+      "end": "06:31",
+      "frame_start": 68400,
+      "frame_end": 73200,
+      "duration_frames": 4800,
+      "duration_minutes": 8
+    },
+    {
+      "label": "Toileting",
+      "room": "bathroom",
+      "start": "06:32",
+      "end": "06:33",
+      "frame_start": 73200,
+      "frame_end": 74400,
+      "duration_frames": 1200,
+      "duration_minutes": 2
+    },
+    {
+      "label": "Cooking",
+      "room": "kitchen",
+      "start": "06:34",
+      "end": "06:56",
+      "frame_start": 74400,
+      "frame_end": 88200,
+      "duration_frames": 13800,
+      "duration_minutes": 23
+    },
+    {
+      "label": "Eating",
+      "room": "dining",
+      "start": "06:57",
+      "end": "07:15",
+      "frame_start": 88200,
+      "frame_end": 99600,
+      "duration_frames": 11400,
+      "duration_minutes": 19
+    },
+    {
+      "label": "Cleaning",
+      "room": "kitchen",
+      "start": "07:16",
+      "end": "07:24",
+      "frame_start": 99600,
+      "frame_end": 105000,
+      "duration_frames": 5400,
+      "duration_minutes": 9
+    },
+    {
+      "label": "Entertainment/Relax",
+      "room": "living",
+      "start": "07:25",
+      "end": "08:30",
+      "frame_start": 105000,
+      "frame_end": 144600,
+      "duration_frames": 39600,
+      "duration_minutes": 66
+    },
+    {
+      "label": "Unknown/Other",
+      "room": "UNKNOWN",
+      "start": "08:31",
+      "end": "12:16",
+      "frame_start": 144600,
+      "frame_end": 280200,
+      "duration_frames": 135600,
+      "duration_minutes": 226
+    },
+    {
+      "label": "Entertainment/Relax",
+      "room": "living",
+      "start": "12:17",
+      "end": "12:55",
+      "frame_start": 280200,
+      "frame_end": 303600,
+      "duration_frames": 23400,
+      "duration_minutes": 39
+    },
+    {
+      "label": "Rest/Sleeping",
+      "room": "bedroom",
+      "start": "12:56",
+      "end": "13:29",
+      "frame_start": 303600,
+      "frame_end": 324000,
+      "duration_frames": 20400,
+      "duration_minutes": 34
+    }
+  ]
+}

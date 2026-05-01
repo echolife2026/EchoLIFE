@@ -1,0 +1,44 @@
+{
+  "activities": [
+    {
+      "label": "Rest/Sleeping",
+      "room": "bedroom",
+      "start": "04:30",
+      "end": "07:27",
+      "frame_start": 0,
+      "frame_end": 106800,
+      "duration_frames": 106800,
+      "duration_minutes": 178
+    },
+    {
+      "label": "Washing/Brushing",
+      "room": "bathroom",
+      "start": "07:28",
+      "end": "07:36",
+      "frame_start": 106800,
+      "frame_end": 112200,
+      "duration_frames": 5400,
+      "duration_minutes": 9
+    },
+    {
+      "label": "Unknown/Other",
+      "room": "UNKNOWN",
+      "start": "07:37",
+      "end": "07:39",
+      "frame_start": 112200,
+      "frame_end": 114000,
+      "duration_frames": 1800,
+      "duration_minutes": 3
+    },
+    {
+      "label": "Unknown/Other",
+      "room": "UNKNOWN",
+      "start": "07:39",
+      "end": "08:29",
+      "frame_start": 114000,
+      "frame_end": 144600,
+      "duration_frames": 30600,
+      "duration_minutes": 51
+    }
+  ]
+}

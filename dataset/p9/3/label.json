@@ -1,0 +1,174 @@
+{
+  "activities": [
+    {
+      "label": "Rest/Sleeping",
+      "room": "bedroom",
+      "start": "03:30",
+      "end": "06:38",
+      "frame_start": 0,
+      "frame_end": 113400,
+      "duration_frames": 113400,
+      "duration_minutes": 189
+    },
+    {
+      "label": "Unknown/Other",
+      "room": "UNKNOWN",
+      "start": "06:39",
+      "end": "06:42",
+      "frame_start": 113400,
+      "frame_end": 115800,
+      "duration_frames": 2400,
+      "duration_minutes": 4
+    },
+    {
+      "label": "Washing/Brushing",
+      "room": "bathroom",
+      "start": "06:43",
+      "end": "06:52",
+      "frame_start": 115800,
+      "frame_end": 121800,
+      "duration_frames": 6000,
+      "duration_minutes": 10
+    },
+    {
+      "label": "Unknown/Other",
+      "room": "UNKNOWN",
+      "start": "06:53",
+      "end": "06:54",
+      "frame_start": 121800,
+      "frame_end": 123000,
+      "duration_frames": 1200,
+      "duration_minutes": 2
+    },
+    {
+      "label": "Cooking",
+      "room": "kitchen",
+      "start": "06:55",
+      "end": "07:21",
+      "frame_start": 123000,
+      "frame_end": 139200,
+      "duration_frames": 16200,
+      "duration_minutes": 27
+    },
+    {
+      "label": "Eating",
+      "room": "dining",
+      "start": "07:22",
+      "end": "07:39",
+      "frame_start": 139200,
+      "frame_end": 150000,
+      "duration_frames": 10800,
+      "duration_minutes": 18
+    },
+    {
+      "label": "Cleaning",
+      "room": "kitchen",
+      "start": "07:40",
+      "end": "07:51",
+      "frame_start": 150000,
+      "frame_end": 157200,
+      "duration_frames": 7200,
+      "duration_minutes": 12
+    },
+    {
+      "label": "Entertainment/Relax",
+      "room": "living",
+      "start": "07:52",
+      "end": "08:58",
+      "frame_start": 157200,
+      "frame_end": 197400,
+      "duration_frames": 40200,
+      "duration_minutes": 67
+    },
+    {
+      "label": "Unknown/Other",
+      "room": "UNKNOWN",
+      "start": "08:59",
+      "end": "10:36",
+      "frame_start": 197400,
+      "frame_end": 256200,
+      "duration_frames": 58800,
+      "duration_minutes": 98
+    },
+    {
+      "label": "Entertainment/Relax",
+      "room": "living",
+      "start": "10:37",
+      "end": "11:01",
+      "frame_start": 256200,
+      "frame_end": 271200,
+      "duration_frames": 15000,
+      "duration_minutes": 25
+    },
+    {
+      "label": "Cooking",
+      "room": "kitchen",
+      "start": "11:02",
+      "end": "11:24",
+      "frame_start": 271200,
+      "frame_end": 285000,
+      "duration_frames": 13800,
+      "duration_minutes": 23
+    },
+    {
+      "label": "Eating",
+      "room": "dining",
+      "start": "11:25",
+      "end": "11:44",
+      "frame_start": 285000,
+      "frame_end": 297000,
+      "duration_frames": 12000,
+      "duration_minutes": 20
+    },
+    {
+      "label": "Cleaning",
+      "room": "kitchen",
+      "start": "11:45",
+      "end": "11:57",
+      "frame_start": 297000,
+      "frame_end": 304800,
+      "duration_frames": 7800,
+      "duration_minutes": 13
+    },
+    {
+      "label": "Entertainment/Relax",
+      "room": "living",
+      "start": "11:58",
+      "end": "12:23",
+      "frame_start": 304800,
+      "frame_end": 320400,
+      "duration_frames": 15600,
+      "duration_minutes": 26
+    },
+    {
+      "label": "Toileting",
+      "room": "bathroom",
+      "start": "12:24",
+      "end": "12:26",
+      "frame_start": 320400,
+      "frame_end": 322200,
+      "duration_frames": 1800,
+      "duration_minutes": 3
+    },
+    {
+      "label": "Entertainment/Relax",
+      "room": "living",
+      "start": "12:27",
+      "end": "13:26",
+      "frame_start": 322200,
+      "frame_end": 358200,
+      "duration_frames": 36000,
+      "duration_minutes": 60
+    },
+    {
+      "label": "Rest/Sleeping",
+      "room": "bedroom",
+      "start": "13:27",
+      "end": "14:29",
+      "frame_start": 358200,
+      "frame_end": 396000,
+      "duration_frames": 37800,
+      "duration_minutes": 63
+    }
+  ]
+}

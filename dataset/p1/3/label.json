@@ -1,0 +1,94 @@
+{
+  "activities": [
+    {
+      "label": "Unknown/Other",
+      "room": "UNKNOWN",
+      "start": "16:00",
+      "end": "18:24",
+      "frame_start": 0,
+      "frame_end": 87000,
+      "duration_frames": 87000,
+      "duration_minutes": 145
+    },
+    {
+      "label": "Toileting",
+      "room": "bathroom",
+      "start": "18:25",
+      "end": "18:27",
+      "frame_start": 87000,
+      "frame_end": 88800,
+      "duration_frames": 1800,
+      "duration_minutes": 3
+    },
+    {
+      "label": "Unknown/Other",
+      "room": "UNKNOWN",
+      "start": "18:28",
+      "end": "18:29",
+      "frame_start": 88800,
+      "frame_end": 90000,
+      "duration_frames": 1200,
+      "duration_minutes": 2
+    },
+    {
+      "label": "Cooking",
+      "room": "kitchen",
+      "start": "18:30",
+      "end": "18:59",
+      "frame_start": 90000,
+      "frame_end": 108000,
+      "duration_frames": 18000,
+      "duration_minutes": 30
+    },
+    {
+      "label": "Eating",
+      "room": "kitchen",
+      "start": "18:54",
+      "end": "19:13",
+      "frame_start": 108000,
+      "frame_end": 120000,
+      "duration_frames": 12000,
+      "duration_minutes": 20
+    },
+    {
+      "label": "Cleaning",
+      "room": "kitchen",
+      "start": "19:14",
+      "end": "19:22",
+      "frame_start": 120000,
+      "frame_end": 125400,
+      "duration_frames": 5400,
+      "duration_minutes": 9
+    },
+    {
+      "label": "Entertainment/Relax",
+      "room": "living",
+      "start": "19:23",
+      "end": "20:34",
+      "frame_start": 125400,
+      "frame_end": 168600,
+      "duration_frames": 43200,
+      "duration_minutes": 72
+    },
+    {
+      "label": "Toileting",
+      "room": "bathroom",
+      "start": "20:35",
+      "end": "20:37",
+      "frame_start": 168600,
+      "frame_end": 170400,
+      "duration_frames": 1800,
+      "duration_minutes": 3
+    },
+    {
+      "label": "Working/Studying",
+      "room": "living",
+      "start": "20:38",
+      "end": "21:29",
+      "frame_start": 170400,
+      "frame_end": 201600,
+      "duration_frames": 31200,
+      "duration_minutes": 52
+    }
+  ]
+}
